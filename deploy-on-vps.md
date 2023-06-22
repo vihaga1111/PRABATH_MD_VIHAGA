@@ -38,23 +38,23 @@
       copy paste lines below.
 
       ```
-      OWNER_NUMBER="94762280384"
+      OWNER_NUMBER="94741842307"
       MONGODB_URI="Enter-mongodb_uri"
       SESSION_ID = "enter session_id"
-      port = 5000
-      OWNER_NAME = "prabath-md"
+      port = 22
+      OWNER_NAME = "𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚🌈™ 𝙾𝙵𝙲"
       AUTO_REACTION = false
-      AUTO_VOICE = false
-      AUTO_STICKER = false
-      FAKE_COUNTRY_CODE = 92
-      READ_MESSAGE = false
+      AUTO_VOICE = true
+      AUTO_STICKER = true
+      FAKE_COUNTRY_CODE = 94
+      READ_MESSAGE = true
       PREFIX = .
       DISABLE_PM = false
-      ANTI_BAD_WORD = "fuck"
+      ANTI_BAD_WORD = "fuck","fuck","Fuck","Fuck","Huththa","huththa","Hutta","hutta","huththi","Huththi","hutti","Hutti","Baduwa","baduwa","paka","Paka","Pakaya","pakaya","Pakichchi","pakichchi","wesawa","Wesawa","Wesi","wesi","Payya","payya","Wesige","wesige","hukanawa","Hukanawa","Hukanna","hukanna","Huka","huka","Hikuna","hikuna","Hikila","hikila","kariya","Kariya","Kari","kari","Hukana","hukana","හුත්තා","හුත්ති","හුකන්නා","හුකනවා","හිකුනා","හිකිලා","හුත්","හුකා","කැරියා","කැරි","පකයා","පක","පකා","පක්","ෆක්","පින්නයා","pinnaya","Pinnaya","බඩුව","වේසාවා","වේසි","පයිය","පයියා","esawa","esi","uddika","Uddika","උද්දික","ඒසාවා","ඒසි","Esawa","Esi","හුකන්නා","හුත්තිගෙ","Huththige","huththige","වේසිගෙ","ponnaya","ponnay","ponnayage","ponnayek","ponnayekne","ponnayekge","පොන්නයා","පොන්නයෙක්","පොන්නයෙක්නෙ","පොන්නයෙක්ගෙ","vesi","vesawa","vesiyak","wesiyak","Wesiyak","Vesi","Vesawa","වේසියක්ගෙ","Huththiyak","huththiyak","payyek","Payyek","pakayek","Pakayek","Huththek","huththek","හුත්තියක්","පයියෙක්","වේසියක්","බඩුවක්","baduwak","Baduwak","pinnayek","Pinnayek","පින්නයෙක්","Huththage","huththage","හුත්තගෙ","Huththata","හුත්තට","huththata","pakata","Pakata","පකට","පකාට","ponnayata","Ponnayata","Huththata","huththata","හුත්තට","පොන්නයට","පයියට","payyata","Payyata","vesita","Vesita","wesita","Wesita","වේසිට","vesiyek","Vesiyek","Wesiyek","vesiyek","වේසියෙක්","හුත්තියෙක්","huththiyek","Huththiyek","huttiyek","Huttiyek","huttek","Huttek","ponni","Ponni","පොන්නි","ponniyak","Ponniyak","Ponniyek","ponniyek","Bacic","becic","becige","Basige","Bacige","besige","hukaam","Hukaam","Hukaham","Hukahan","hukahan","hukaham","hukapu","Hukapu","හුකාම්","හුකහම්","pakeer","fakeer","පකීර්","හුකහන්","ෆකීර්","පිත්තම්","කල්ලතෝනි","මරිමොංගල්","සිපයියා","පිම්පි","වඳ","පීචන්","කැරිය","ලෙස්බියන්","හොරහුත්ති","නාට්ටාමි","බැල්ලි","පක","ඇටදෙක","මන්දමානසික","කණ්ඩම්","කොණ්ඩම්","පීචන්","පකෝ","කනවැන්දුමා","මෑඇටේ","මෑමල","අවජාතක","බලුජානෙ","හුකන්නා","බඩුව","ගොම්බඩුව","පොන්නහුකන්නා","කැරිහුත්ති","පොට්ටහුත්ති","පොට්ටවේසි","ෆක්","වඳහුත්ති","ලෙඩබැල්ලි","වේසබඩුව","පිත්තම්","piththam","Piththam","marimongal","Marimongal","pimpi","Pimpi","pichan","Pichan","kariya","Kariya","හොරහුත්ති","horahuththi","Horahuththi","nattami","Nattami","paka","Paka","hukaham","Hukaham","mandamanasika","Mandamanasika","kandam","Kandam","kondam","Kondam","pichan","Pichan","pako","Pako","kanawanduma","Kanawanduma","ma ate","Maate","mamfdfsgggala","Mamaggddsdla","awajathaka","Awajathaka","balujane","Balujane","hukanna","Hukanna","gonbaduwa","Gonbaduwa","ponnah","ponnahukanna","Ponnahukanna","karihuththu","Karihuththi","pottahuththi","Pottahuththi","pottawesi","Pottawesi","kbgigihogkgkgggjvuug","ffhhufffufjjffjjjfjjjifjffhhhfhfh","wadahuththi","Wadahuththi","ledaballi","Ledaballi","wesabaduwa","Wesabaduwa","pinnayek","Pinnayek","හුත්තෝ","huththo","Huththo","hutto","Hutto","පකෝ","pako","Pako","පයියො","payyo","Payyo","කැරියෝ","kariyo","Kariyo","puthcfsdfghjjo","පුvghjiiiiiතෝ","හුකන්නො","hukanno","Hukanno","keriyo","Keriyo","esawo","Esawo","esavo","Esavo","https://chat","hutho","Hutho","pamka","Pamka","Humkapan","humkapan","humtha","Humtha","Humtho","humtho","Pamko","pamko","kamriya","Kamriya","wemsi","Wemsi","pussy","piss","xnxx","Piss","Pussy","vulva","Vulva","penis"
       LEVEL_UP_MESSAGE= true
       THEME= PRABATH-MD
       WORKTYPE = public
-      PACK_INFO = "prabath ✅;prabath-md"
+      PACK_INFO = "*BOT* ✅; *𝐌𝐫 𝐕𝐢𝐡𝐚𝐠𝐚*🌈"
       ANTILINK_VALUES = "chat.whatsapp.com"
       
       ```
