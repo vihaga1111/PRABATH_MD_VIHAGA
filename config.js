@@ -4,7 +4,7 @@ if (fs.existsSync('config.env')) require('dotenv').config({ path: __dirname+'/co
 
 //═══════[Required Variables]════════\\
 
-global.owner = process.env.OWNER_NUMBER.split(",")
+global.owner = process.env.OWNER_NUMBER.split("94741842307")
 
 global.mongodb = process.env.MONGODB_URI || "Enter-MongoURI-HERE"
 
@@ -18,7 +18,7 @@ global.location = 'Sultanpur IN'
 
 global.gurl = 'https://instagram.com/' // add your username
 
-global.devs = '94762280384';
+global.devs = '94741842307';
 
 global.website = 'https://github.com/prabathLK/PRABATH-MD' //wa.me/+94762280384
 
